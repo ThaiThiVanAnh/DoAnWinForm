@@ -1,0 +1,15 @@
+C:\Users\HAI DANG LAPTOP\Downloads\Do_An1\Do_An\UDQLTC.BUS\bin\Debug\UDQLTC.BUS.dll.config
+C:\Users\HAI DANG LAPTOP\Downloads\Do_An1\Do_An\UDQLTC.BUS\bin\Debug\UDQLTC.BUS.dll
+C:\Users\HAI DANG LAPTOP\Downloads\Do_An1\Do_An\UDQLTC.BUS\bin\Debug\UDQLTC.BUS.pdb
+C:\Users\HAI DANG LAPTOP\Downloads\Do_An1\Do_An\UDQLTC.BUS\bin\Debug\EntityFramework.dll
+C:\Users\HAI DANG LAPTOP\Downloads\Do_An1\Do_An\UDQLTC.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HAI DANG LAPTOP\Downloads\Do_An1\Do_An\UDQLTC.BUS\bin\Debug\UDQLTC.DAL.dll
+C:\Users\HAI DANG LAPTOP\Downloads\Do_An1\Do_An\UDQLTC.BUS\bin\Debug\UDQLTC.DAL.pdb
+C:\Users\HAI DANG LAPTOP\Downloads\Do_An1\Do_An\UDQLTC.BUS\bin\Debug\UDQLTC.DAL.dll.config
+C:\Users\HAI DANG LAPTOP\Downloads\Do_An1\Do_An\UDQLTC.BUS\bin\Debug\EntityFramework.xml
+C:\Users\HAI DANG LAPTOP\Downloads\Do_An1\Do_An\UDQLTC.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HAI DANG LAPTOP\Downloads\Do_An1\Do_An\UDQLTC.BUS\obj\Debug\UDQLTC1.csproj.AssemblyReference.cache
+C:\Users\HAI DANG LAPTOP\Downloads\Do_An1\Do_An\UDQLTC.BUS\obj\Debug\UDQLTC1.csproj.CoreCompileInputs.cache
+C:\Users\HAI DANG LAPTOP\Downloads\Do_An1\Do_An\UDQLTC.BUS\obj\Debug\UDQLTC1.csproj.Up2Date
+C:\Users\HAI DANG LAPTOP\Downloads\Do_An1\Do_An\UDQLTC.BUS\obj\Debug\UDQLTC.BUS.dll
+C:\Users\HAI DANG LAPTOP\Downloads\Do_An1\Do_An\UDQLTC.BUS\obj\Debug\UDQLTC.BUS.pdb

@@ -1,0 +1,502 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|solutionrelative:thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|c:\\users\\hai dang laptop\\downloads\\do_an1\\do_an\\udqltc\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|solutionrelative:taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC.GUI.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC.GUI.csproj|solutionrelative:taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|solutionrelative:taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC.GUI.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC.GUI.csproj|solutionrelative:taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018F8D6-6B97-4C11-AE68-028658A80F97}|..\\UDQLTC.BUS\\UDQLTC1.csproj|c:\\users\\hai dang laptop\\downloads\\do_an1\\do_an\\udqltc.bus\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC.GUI.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\nhapkhoanthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC.GUI.csproj|solutionrelative:nhapkhoanthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|solutionrelative:thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018F8D6-6B97-4C11-AE68-028658A80F97}|..\\UDQLTC.BUS\\UDQLTC.BUS.csproj|c:\\users\\hai dang laptop\\downloads\\do_an1\\do_an\\udqltc.bus\\khoanthuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018F8D6-6B97-4C11-AE68-028658A80F97}|..\\UDQLTC.BUS\\UDQLTC1.csproj|c:\\users\\hai dang laptop\\downloads\\do_an1\\do_an\\udqltc.bus\\khoanchiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504F1BA2-C7B4-432A-8233-6A9575B42C07}|..\\UDQLTC.DAL\\UDQLTC2.csproj|c:\\users\\hai dang laptop\\downloads\\do_an1\\do_an\\udqltc.dal\\model\\khoan_chi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\nhapkhoanchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|solutionrelative:nhapkhoanchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\aucout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|solutionrelative:aucout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\nhapkhoanthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|solutionrelative:nhapkhoanthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\nhapkhoanchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|solutionrelative:nhapkhoanchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504F1BA2-C7B4-432A-8233-6A9575B42C07}|..\\UDQLTC.DAL\\UDQLTC2.csproj|c:\\users\\hai dang laptop\\downloads\\do_an1\\do_an\\udqltc.dal\\model\\khoan_thu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC.GUI.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\qldanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC.GUI.csproj|solutionrelative:qldanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC.GUI.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\qldanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC.GUI.csproj|solutionrelative:qldanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\thongkechi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|solutionrelative:thongkechi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\thongkechi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|solutionrelative:thongkechi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\muctieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC3.csproj|solutionrelative:muctieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504F1BA2-C7B4-432A-8233-6A9575B42C07}|..\\UDQLTC.DAL\\UDQLTC.DAL.csproj|c:\\users\\hai dang laptop\\downloads\\do_an1\\do_an\\udqltc.dal\\model\\muc_tieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018F8D6-6B97-4C11-AE68-028658A80F97}|..\\UDQLTC.BUS\\UDQLTC.BUS.csproj|c:\\users\\hai dang laptop\\downloads\\do_an1\\do_an\\udqltc.bus\\danhmucchiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504F1BA2-C7B4-432A-8233-6A9575B42C07}|..\\UDQLTC.DAL\\UDQLTC.DAL.csproj|c:\\users\\hai dang laptop\\downloads\\do_an1\\do_an\\udqltc.dal\\model\\phan_quyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B018F8D6-6B97-4C11-AE68-028658A80F97}|..\\UDQLTC.BUS\\UDQLTC.BUS.csproj|c:\\users\\hai dang laptop\\downloads\\do_an1\\do_an\\udqltc.bus\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504F1BA2-C7B4-432A-8233-6A9575B42C07}|..\\UDQLTC.DAL\\UDQLTC.DAL.csproj|c:\\users\\hai dang laptop\\downloads\\do_an1\\do_an\\udqltc.dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC.GUI.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC.GUI.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC.GUI.csproj|C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE82DF-1343-4607-BD57-AECE8430FCF2}|UDQLTC.GUI.csproj|solutionrelative:setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "TaiKhoan.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\TaiKhoan.cs [Design]",
+              "RelativeToolTip": "TaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:32:45.468Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:05:58.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NhapKhoanThu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\NhapKhoanThu.cs",
+              "RelativeDocumentMoniker": "NhapKhoanThu.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\NhapKhoanThu.cs [Design]",
+              "RelativeToolTip": "NhapKhoanThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:02:31.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\ThongKe.cs",
+              "RelativeDocumentMoniker": "ThongKe.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\ThongKe.cs [Design]*",
+              "RelativeToolTip": "ThongKe.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:05:09.47Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OTPService.cs",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.BUS\\OTPService.cs",
+              "RelativeDocumentMoniker": "..\\UDQLTC.BUS\\OTPService.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.BUS\\OTPService.cs",
+              "RelativeToolTip": "..\\UDQLTC.BUS\\OTPService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:12:25.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "TaiKhoan.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\TaiKhoan.cs",
+              "RelativeToolTip": "TaiKhoan.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAQwNgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:32:45.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "TaiKhoan.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\TaiKhoan.cs [Design]",
+              "RelativeToolTip": "TaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:56:59.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "TaiKhoan.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\TaiKhoan.cs",
+              "RelativeToolTip": "TaiKhoan.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAQwNgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:57:02.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThongKe.cs",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\ThongKe.cs",
+              "RelativeDocumentMoniker": "ThongKe.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\ThongKe.cs*",
+              "RelativeToolTip": "ThongKe.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:27:01.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KhoanThuService.cs",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.BUS\\KhoanThuService.cs",
+              "RelativeDocumentMoniker": "..\\UDQLTC.BUS\\KhoanThuService.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.BUS\\KhoanThuService.cs",
+              "RelativeToolTip": "..\\UDQLTC.BUS\\KhoanThuService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:49:30.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KhoanChiService.cs",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.BUS\\KhoanChiService.cs",
+              "RelativeDocumentMoniker": "..\\UDQLTC.BUS\\KhoanChiService.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.BUS\\KhoanChiService.cs",
+              "RelativeToolTip": "..\\UDQLTC.BUS\\KhoanChiService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:00:53.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Aucout.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\Aucout.cs",
+              "RelativeDocumentMoniker": "Aucout.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\Aucout.cs [Design]",
+              "RelativeToolTip": "Aucout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:05:39.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KHOAN_CHI.cs",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.DAL\\Model\\KHOAN_CHI.cs",
+              "RelativeDocumentMoniker": "..\\UDQLTC.DAL\\Model\\KHOAN_CHI.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.DAL\\Model\\KHOAN_CHI.cs",
+              "RelativeToolTip": "..\\UDQLTC.DAL\\Model\\KHOAN_CHI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:46:17.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAlwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:51:47.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NhapKhoanChi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\NhapKhoanChi.cs",
+              "RelativeDocumentMoniker": "NhapKhoanChi.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\NhapKhoanChi.cs [Design]",
+              "RelativeToolTip": "NhapKhoanChi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:04:29.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NhapKhoanThu.cs",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\NhapKhoanThu.cs",
+              "RelativeDocumentMoniker": "NhapKhoanThu.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\NhapKhoanThu.cs",
+              "RelativeToolTip": "NhapKhoanThu.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:03:58.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NhapKhoanChi.cs",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\NhapKhoanChi.cs",
+              "RelativeDocumentMoniker": "NhapKhoanChi.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\NhapKhoanChi.cs",
+              "RelativeToolTip": "NhapKhoanChi.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwG0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:25:59.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KHOAN_THU.cs",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.DAL\\Model\\KHOAN_THU.cs",
+              "RelativeDocumentMoniker": "..\\UDQLTC.DAL\\Model\\KHOAN_THU.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.DAL\\Model\\KHOAN_THU.cs",
+              "RelativeToolTip": "..\\UDQLTC.DAL\\Model\\KHOAN_THU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:46:14.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QLDanhMuc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\QLDanhMuc.cs",
+              "RelativeDocumentMoniker": "QLDanhMuc.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\QLDanhMuc.cs [Design]",
+              "RelativeToolTip": "QLDanhMuc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:16:37.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QLDanhMuc.cs",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\QLDanhMuc.cs",
+              "RelativeDocumentMoniker": "QLDanhMuc.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\QLDanhMuc.cs",
+              "RelativeToolTip": "QLDanhMuc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:07:53.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ThongKeChi.cs",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\ThongKeChi.cs",
+              "RelativeDocumentMoniker": "ThongKeChi.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\ThongKeChi.cs",
+              "RelativeToolTip": "ThongKeChi.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:26:43.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ThongKeChi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\ThongKeChi.cs",
+              "RelativeDocumentMoniker": "ThongKeChi.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\ThongKeChi.cs [Design]",
+              "RelativeToolTip": "ThongKeChi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:05:18.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:23:03.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MucTieu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\MucTieu.cs",
+              "RelativeDocumentMoniker": "MucTieu.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\MucTieu.cs [Design]",
+              "RelativeToolTip": "MucTieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:23:19.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MUC_TIEU.cs",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.DAL\\Model\\MUC_TIEU.cs",
+              "RelativeDocumentMoniker": "..\\UDQLTC.DAL\\Model\\MUC_TIEU.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.DAL\\Model\\MUC_TIEU.cs",
+              "RelativeToolTip": "..\\UDQLTC.DAL\\Model\\MUC_TIEU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:02:24.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PHAN_QUYEN.cs",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.DAL\\Model\\PHAN_QUYEN.cs",
+              "RelativeDocumentMoniker": "..\\UDQLTC.DAL\\Model\\PHAN_QUYEN.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.DAL\\Model\\PHAN_QUYEN.cs",
+              "RelativeToolTip": "..\\UDQLTC.DAL\\Model\\PHAN_QUYEN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:57:25.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DanhMucChiService.cs",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.BUS\\DanhMucChiService.cs",
+              "RelativeDocumentMoniker": "..\\UDQLTC.BUS\\DanhMucChiService.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.BUS\\DanhMucChiService.cs",
+              "RelativeToolTip": "..\\UDQLTC.BUS\\DanhMucChiService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:57:14.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-03T11:17:25.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.BUS\\App.config",
+              "RelativeDocumentMoniker": "..\\UDQLTC.BUS\\App.config",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.BUS\\App.config",
+              "RelativeToolTip": "..\\UDQLTC.BUS\\App.config",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBMAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-03T11:31:23.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.DAL\\App.config",
+              "RelativeDocumentMoniker": "..\\UDQLTC.DAL\\App.config",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC.DAL\\App.config",
+              "RelativeToolTip": "..\\UDQLTC.DAL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-03T10:36:54.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\Setting.cs",
+              "RelativeDocumentMoniker": "Setting.cs",
+              "ToolTip": "C:\\Users\\HAI DANG LAPTOP\\Downloads\\Do_An1\\Do_An\\UDQLTC\\Setting.cs",
+              "RelativeToolTip": "Setting.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAIAwwC0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:10:45.466Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
